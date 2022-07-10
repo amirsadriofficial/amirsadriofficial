@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial)](https://github.com/anuraghazra/github-readme-stats)
-
-<p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="420">
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="500">
   <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial&theme=tokyonight&hide_border=true" width="350" >
 </p>
