@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ali-zabetpour-1143b3214" target="blank"
+  <a href="https://linkedin.com/in/amirsadriofficial" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -32,7 +32,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/alizabetpoor" target="blank"
+  <a href="https://instagram.com/amirsadriofficial" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -48,7 +48,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/alizabetpoor" target="blank"
+  <a href="https://telegram.com/amirsadriofficial" target="blank"
     ><img
       align="center"
       src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
