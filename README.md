@@ -133,9 +133,17 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTibyxd604-lRAa0W7V2NMyIt0StGKSkAXhIi3uiA_QGGWK2YkyoaSPQSh7G-_zfdb8o&usqp=CAU"
+      src="https://www.pinclipart.com/picdir/big/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
       alt="python"
-      width="55"
+      width="45"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://www.pinclipart.com/picdir/middle/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
+      alt="python"
+      width="45"
       height="40"
     />
   </a>
