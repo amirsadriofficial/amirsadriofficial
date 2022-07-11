@@ -135,15 +135,7 @@
     <img
       src="https://www.pinclipart.com/picdir/big/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
       alt="python"
-      width="45"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://www.pinclipart.com/picdir/middle/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
-      alt="python"
-      width="45"
+      width="50"
       height="40"
     />
   </a>
