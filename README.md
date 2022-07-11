@@ -77,9 +77,9 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"
       alt="python"
-      width="40"
+      width="70"
       height="40"
     />
   </a>
