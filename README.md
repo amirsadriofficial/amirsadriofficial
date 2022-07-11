@@ -8,19 +8,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/alizabetpoor" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="alizabetpoor"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/ali-zabetpour-1143b3214" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ali-zabetpour-1143b3214"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://twitter.com/alizabetpoor" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="alizabetpoor"
       height="30"
       width="40"
   /></a>
@@ -39,6 +39,22 @@
       alt="alizabetpoor"
       height="30"
       width="40"
+  /></a>
+  <a href="https://instagram.com/alizabetpoor" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+      alt="alizabetpoor"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/alizabetpoor" target="blank"
+    ><img
+      align="center"
+      src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
+      alt="alizabetpoor"
+      height="35"
+      width="35"
   /></a>
 </p>
 
