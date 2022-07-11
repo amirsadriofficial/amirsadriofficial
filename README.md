@@ -140,7 +140,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ali-zabetpour-1143b3214"
-      height="30"
+      height="35"
       width="40"
   /></a>
   <a href="https://twitter.com/alizabetpoor" target="blank"
@@ -148,7 +148,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="alizabetpoor"
-      height="30"
+      height="35"
       width="40"
   /></a>
   <a href="https://fb.com/alizabetpoor" target="blank"
@@ -156,7 +156,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="alizabetpoor"
-      height="30"
+      height="35"
       width="40"
   /></a>
   <a href="https://instagram.com/amirsadriofficial" target="blank"
@@ -164,7 +164,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="alizabetpoor"
-      height="30"
+      height="35"
       width="40"
   /></a>
   <a href="https://instagram.com/alizabetpoor" target="blank"
@@ -172,7 +172,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="alizabetpoor"
-      height="30"
+      height="35"
       width="40"
   /></a>
   <a href="https://telegram.com/amirsadriofficial" target="blank"
@@ -180,8 +180,8 @@
       align="center"
       src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
       alt="alizabetpoor"
-      height="35"
-      width="35"
+      height="40"
+      width="40"
   /></a>
 </p>
 
