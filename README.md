@@ -131,6 +131,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTibyxd604-lRAa0W7V2NMyIt0StGKSkAXhIi3uiA_QGGWK2YkyoaSPQSh7G-_zfdb8o&usqp=CAU"
+      alt="python"
+      width="55"
+      height="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">UI/UX Design Skills:</h3>
