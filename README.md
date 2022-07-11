@@ -83,7 +83,15 @@
       height="40"
     />
   </a>
-   <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -97,6 +105,30 @@
       alt="python"
       width="45"
       height="43"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"
+      alt="python"
+      width="40"
+      height="40"
     />
   </a>
 </p>
