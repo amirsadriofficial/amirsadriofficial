@@ -93,10 +93,10 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"
+      src="https://svgarchive.com/wp-content/uploads/react-native.svg"
       alt="python"
-      width="70"
-      height="40"
+      width="45"
+      height="43"
     />
   </a>
 </p>
