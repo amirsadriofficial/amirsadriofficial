@@ -6,19 +6,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial&theme=tokyonight&hide_border=true">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Front-End Skills:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
+      alt="html5"
       width="40"
       height="40"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
       alt="css3"
       width="40"
       height="40"
@@ -26,23 +26,31 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
       alt="django"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
+      alt="bootstrap"
+      width="50"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
+      alt="tailwind"
       width="40"
       height="40"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      src="https://mui.com/static/logo.png"
       alt="git"
       width="40"
       height="40"
@@ -50,7 +58,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
       alt="html5"
       width="40"
       height="40"
@@ -61,7 +69,7 @@
     target="_blank"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
       alt="javascript"
       width="40"
       height="40"
@@ -69,8 +77,16 @@
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
       alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
       width="40"
       height="40"
     />
@@ -80,30 +96,6 @@
       src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"
       alt="python"
       width="70"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
       height="40"
     />
   </a>
