@@ -212,7 +212,7 @@
 
 <br />
 
-<p vertical-align: "top">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="415">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial&theme=tokyonight&hide_border=true&layout=compact" width="415">
