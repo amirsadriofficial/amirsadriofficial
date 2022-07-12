@@ -154,54 +154,60 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/amirsadriofficial" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ali-zabetpour-1143b3214"
-      height="35"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/AmirSadrii" target="blank"
-    ><img
+  <a href="https://linkedin.com/in/amirsadriofficial" target="_blank">
+    <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="linkedin"
+        height="35"
+        width="40"
+    />
+  </a>
+  <a href="https://twitter.com/AmirSadrii" target="_blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="alizabetpoor"
+      alt="twitter"
       height="35"
       width="40"
-  /></a>
-  <a href="https://www.facebook.com/profile.php?id=100058040100594" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="alizabetpoor"
-      height="35"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/amirsadriofficial" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="alizabetpoor"
-      height="35"
-      width="40"
-  /></a>
-  <a href="https://wa.me/message/2AF3SX3XOBZEK1" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="alizabetpoor"
-      height="35"
-      width="40"
-  /></a>
-  <a href="https://t.me/amirsadriofficial" target="blank"
-    ><img
-      align="center"
-      src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
-      alt="alizabetpoor"
-      height="40"
-      width="40"
-  /></a>
+    />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100058040100594" target="_blank">
+    <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+        alt="facebook"
+        height="35"
+        width="40"
+    />
+  </a>
+  <a href="https://instagram.com/amirsadriofficial" target="_blank">
+    <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        alt="instagram"
+        height="35"
+        width="40"
+    />
+  </a>
+  <a href="https://wa.me/message/2AF3SX3XOBZEK1" target="_blank">
+    <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+        alt="whatsapp"
+        height="35"
+        width="40"
+    />
+  </a>
+  <a href="https://t.me/amirsadriofficial" target="_blank">
+    <img
+        align="center"
+        src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
+        alt="telegram"
+        height="40"
+        width="40"
+    />
+  </a>
 </p>
 
 <br />
