@@ -134,23 +134,23 @@
 
 <h3 align="left">UI/UX Design Skills:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://www.figma.com" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
-      alt="html5"
+      alt="figma"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="http://www.adobe.com/products/photoshop.html" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png"
-      alt="html5"
+      alt="adobe-photoshop"
       width="40"
       height="40"
     />
   </a>
-</p>  
+</p> 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
