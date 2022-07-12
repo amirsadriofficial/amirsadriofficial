@@ -5,7 +5,7 @@
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
-      alt="html5"
+      alt="html"
       width="40"
       height="40"
     />
@@ -13,7 +13,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
-      alt="css3"
+      alt="css"
       width="40"
       height="40"
     />
@@ -21,7 +21,7 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
-      alt="django"
+      alt="sass"
       width="50"
       height="40"
     />
@@ -45,7 +45,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://mui.com/static/logo.png"
-      alt="git"
+      alt="material-ui"
       width="40"
       height="40"
     />
@@ -53,15 +53,13 @@
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
-      alt="html5"
+      alt="ant-design"
       width="40"
       height="40"
     />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
       alt="javascript"
