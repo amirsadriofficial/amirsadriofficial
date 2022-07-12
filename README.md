@@ -1,4 +1,7 @@
 # Hi there 👋 I'm Amir Sadri
+ddhbdbhd
+
+<hr />
 
 <h3 align="left">Front-End Development Skills:</h3>
 <p align="left">
@@ -210,7 +213,7 @@
   </a>
 </p>
 
-<br />
+<hr /> 
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
