@@ -2,7 +2,7 @@
 
 <h3 align="left">Front-End Development Skills:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://html.spec.whatwg.org/multipage" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
       alt="html"
@@ -10,7 +10,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
       alt="css"
@@ -18,7 +18,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
+  <a href="https://sass-lang.com" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
       alt="sass"
@@ -34,7 +34,7 @@
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
       alt="tailwind"
@@ -42,7 +42,7 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://mui.com" target="_blank">
     <img
       src="https://mui.com/static/logo.png"
       alt="material-ui"
@@ -50,7 +50,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://ant.design" target="_blank">
     <img
       src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png"
       alt="ant-design"
@@ -58,8 +58,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://www.javascript.com" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
       alt="javascript"
@@ -67,23 +66,23 @@
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
-      alt="linux"
+      alt="typescript"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://jquery.com" target="_blank">
     <img
       src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"
-      alt="react"
+      alt="jquery"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -91,42 +90,42 @@
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://reactnative.dev" target="_blank">
     <img
       src="https://svgarchive.com/wp-content/uploads/react-native.svg"
-      alt="python"
+      alt="react-native"
       width="45"
       height="43"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://nextjs.org" target="_blank">
     <img
       src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
-      alt="react"
+      alt="nextjs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://redux.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
-      alt="python"
+      alt="redux"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://react-query.tanstack.com" target="_blank">
     <img
       src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"
-      alt="python"
+      alt="react-query"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://web.dev/progressive-web-apps" target="_blank">
     <img
       src="https://www.pinclipart.com/picdir/big/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
-      alt="python"
+      alt="pwa"
       width="50"
       height="40"
     />
