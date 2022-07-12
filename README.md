@@ -171,7 +171,7 @@
       height="35"
       width="40"
   /></a>
-  <a href="https://twitter.com/alizabetpoor" target="blank"
+  <a href="https://twitter.com/AmirSadrii" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -179,7 +179,7 @@
       height="35"
       width="40"
   /></a>
-  <a href="https://fb.com/alizabetpoor" target="blank"
+  <a href="https://www.facebook.com/profile.php?id=100058040100594" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -195,7 +195,7 @@
       height="35"
       width="40"
   /></a>
-  <a href="https://instagram.com/alizabetpoor" target="blank"
+  <a href="https://wa.me/989384248024" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
