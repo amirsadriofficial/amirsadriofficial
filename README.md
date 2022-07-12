@@ -203,7 +203,7 @@
       height="35"
       width="40"
   /></a>
-  <a href="https://telegram.com/amirsadriofficial" target="blank"
+  <a href="https://t.me/amirsadriofficial" target="blank"
     ><img
       align="center"
       src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-512.png"
