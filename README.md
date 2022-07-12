@@ -195,7 +195,7 @@
       height="35"
       width="40"
   /></a>
-  <a href="https://wa.me/989384248024" target="blank"
+  <a href="https://wa.me/message/2AF3SX3XOBZEK1" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
