@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<p>
+<p align="top>
   <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="415">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial&theme=tokyonight&hide_border=true&layout=compact" width="415">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirsadriofficial&repo=Cryptocurrency-Exchange&theme=tokyonight&hide_border=true" width="415">
 </p>
 
 <h3 align="left">Front-End Development Skills:</h3>
