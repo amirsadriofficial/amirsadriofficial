@@ -163,8 +163,8 @@ As a front-end developer with more than two years of experience in developing va
         align="center"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
         alt="linkedin"
-        height="35"
-        width="40"
+        height="30"
+        width="35"
     />
   </a>
   <a href="https://linkedin.com/in/amirsadriofficial" target="_blank">
