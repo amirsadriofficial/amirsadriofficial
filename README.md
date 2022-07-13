@@ -172,7 +172,7 @@ As a front-end developer with more than two years of experience in developing va
         align="center"
         src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
         alt="linkedin"
-        height="35"
+        height="40"
         width="40"
     />
   </a>
