@@ -158,7 +158,7 @@ As a front-end developer with more than two years of experience in developing va
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="amirsadriofficial@gmail.com" target="_blank">
+  <a href="mailto:amirsadriofficial@gmail.com" target="_blank">
     <img
         align="center"
         src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png"
