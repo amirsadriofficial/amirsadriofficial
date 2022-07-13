@@ -172,8 +172,8 @@ As a front-end developer with more than two years of experience in developing va
         align="center"
         src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png"
         alt="linkedin"
-        height="40"
-        width="40"
+        height="33"
+        width="55"
     />
   </a>
   <a href="https://linkedin.com/in/amirsadriofficial" target="_blank">
