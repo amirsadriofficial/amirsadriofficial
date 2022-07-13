@@ -1,6 +1,6 @@
 # Hi there👋, I'm Amir Sadri
 
-As a front-end developer with more than two years of experience in developing various web and mobile applications, as well as a young user interface designer, I am madly in love with my work and always looking to improve my technical skills and gain new experiences.
+As a front-end developer with more than two years of experience in developing various web and mobile applications, as well as a junior UI/UX designer, I am madly in love with my work and always looking to improve my technical skills and gain new experiences.
 
 <hr />
 
