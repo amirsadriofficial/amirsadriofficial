@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Amir Sadri
+# Hi there👋, I'm Amir Sadri
 ddhbdbhd
 
 <hr />
