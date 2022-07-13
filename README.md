@@ -170,6 +170,15 @@ As a front-end developer with more than two years of experience in developing va
   <a href="https://linkedin.com/in/amirsadriofficial" target="_blank">
     <img
         align="center"
+        src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
+        alt="linkedin"
+        height="35"
+        width="40"
+    />
+  </a>
+  <a href="https://linkedin.com/in/amirsadriofficial" target="_blank">
+    <img
+        align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="linkedin"
         height="35"
