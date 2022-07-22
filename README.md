@@ -65,7 +65,7 @@ As a front-end developer with more than two years of experience in developing va
   <a href="https://styled-components.com" target="_blank">
     <img
       src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png"
-      alt="javascript"
+      alt="styled-component"
       width="40"
       height="40"
     />
