@@ -137,6 +137,7 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
       height="40"
     />
   </a>
+  <!---
   <a href="https://web.dev/progressive-web-apps" target="_blank">
     <img
       src="https://www.pinclipart.com/picdir/big/325-3253916_build-a-pwa-using-workbox-progressive-web-app.png"
@@ -145,6 +146,7 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
       height="40"
     />
   </a>
+  --->
 </p>
 
 <!---
