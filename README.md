@@ -147,6 +147,7 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
   </a>
 </p>
 
+<!---
 <h3 align="left">UI/UX Design Skills:</h3>
 <p align="left">
   <a href="https://www.figma.com" target="_blank">
@@ -166,7 +167,8 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
     />
   </a>
 </p> 
-  
+--->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:amirsadriofficial@gmail.com" target="_blank">
