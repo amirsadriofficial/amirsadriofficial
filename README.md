@@ -89,7 +89,6 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
       height="40"
     />
   </a>
-  <!---
   <a href="https://jquery.com" target="_blank">
     <img
       src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"
@@ -98,7 +97,6 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
       height="40"
     />
   </a>
-  --->
   <a href="https://reactjs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
