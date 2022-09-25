@@ -193,7 +193,7 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
         width="40"
     />
   </a>
-  <a href="https://twitter.com/AmirSadrii" target="_blank">
+  <a href="https://twitter.com/amirsadri_ir" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
