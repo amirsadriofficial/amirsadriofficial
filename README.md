@@ -173,7 +173,7 @@ Experience working with Javascript, Typescript, React.js, React Native, Redux, N
 </p> 
 --->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="mailto:amirsadriofficial@gmail.com" target="_blank">
     <img
