@@ -1,6 +1,6 @@
 # Hi, I'm Amir Sadri
 
-I am a frontend developer with more than 2 year of experience.
+I am a frontend developer with more than 3 year of experience.
 From the very beginning of my activity until today, because of my great interest in this field, I wanted to gain a lot of knowledge and experience in this field.
 Experience working with Javascript, Typescript, React, React Native, Redux, NextJS and similar technologies in different teams and companies is the basis of my work in this field.
 
