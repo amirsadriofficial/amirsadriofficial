@@ -65,14 +65,14 @@ Experience working with Javascript, Typescript, React, React Native, Redux, Next
       height="40"
     />
   </a>
-  <a href="https://styled-components.com" target="_blank">
+<!--   <a href="https://styled-components.com" target="_blank">
     <img
       src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png"
       alt="styled-component"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://www.javascript.com" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
