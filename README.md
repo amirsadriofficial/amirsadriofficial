@@ -1,8 +1,6 @@
 # Hi, I'm Amir Sadri
 
-I am a software engineer with more than 3 year of experience.
-From the very beginning of my activity until today, because of my great interest in this field, I wanted to gain a lot of knowledge and experience in this field.
-Experience working with Javascript, Typescript, React, React Native, Redux, NextJS and similar technologies in different teams and companies is the basis of my work in this field.
+As a front-end developer with 4 years of professional experience in this field, I'm passionate about creating beautiful and functional user interfaces that help businesses achieve their goals. I specialize in HTML, CSS, JavaScript, and frameworks like React and NextJS. I'm constantly learning new skills and staying up-to-date with the latest web technologies to provide the best solutions for my clients. Collaborating with cross-functional teams, I deliver high-quality projects that exceed client expectations.
 
 
 <hr />
