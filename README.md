@@ -5,16 +5,12 @@ As a front-end developer with 3 years of professional experience in this field, 
 
 <hr />
 <p align="left">
-  <h3>Languages</h3>
+  <h3>Front-End Development Skills:</h3>
   <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-346D9C?style=flat-square&logo=python&logoColor=white" />
-  </p>
-  <h3>Front-End Development Skills:</h3>
-  <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
