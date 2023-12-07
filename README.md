@@ -24,6 +24,7 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
      <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-#999?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Redux">
   </p>
   </p>
 <h3 align="left">Front-End Development Skills:</h3>
