@@ -17,6 +17,7 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img alt="MUI" src="https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=mui&logoColor=white">
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=white" />
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3A3A3A?style=flat-square&logo=cypress&logoColor=white" />
     <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-DC1B24?style=flat-square&logo=testing-library&logoColor=white" />
