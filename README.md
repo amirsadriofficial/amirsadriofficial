@@ -14,7 +14,7 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Python" src="https://img.shields.io/badge/-Python-346D9C?style=flat-square&logo=python&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/-C%23-290165?style=flat-square&logo=csharp&logoColor=white" />
   </p>
-  <h4>Library and frameworks</h4>
+  <h4>Front-End Development Skills:</h4>
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -22,7 +22,7 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="VueJs" src="https://img.shields.io/badge/-VueJs-3CAF7C?style=flat-square&logo=vue.js&logoColor=white" />
     <img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-03D17B?style=flat-square&logo=nuxt.js&logoColor=white" />
   </p>
-  <h5>CSS Libraries</h5>
+  </p>
 <h3 align="left">Front-End Development Skills:</h3>
 <p align="left">
   <a href="https://html.spec.whatwg.org/multipage" target="_blank">
