@@ -4,7 +4,25 @@ As a front-end developer with 3 years of professional experience in this field, 
 
 
 <hr />
-
+<p align="left">
+  <h5>Languages</h5>
+  <p>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-346D9C?style=flat-square&logo=python&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-290165?style=flat-square&logo=csharp&logoColor=white" />
+  </p>
+  <h5>Library and frameworks</h5>
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
+    <img alt="VueJs" src="https://img.shields.io/badge/-VueJs-3CAF7C?style=flat-square&logo=vue.js&logoColor=white" />
+    <img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-03D17B?style=flat-square&logo=nuxt.js&logoColor=white" />
+  </p>
+  <h5>CSS Libraries</h5>
 <h3 align="left">Front-End Development Skills:</h3>
 <p align="left">
   <a href="https://html.spec.whatwg.org/multipage" target="_blank">
