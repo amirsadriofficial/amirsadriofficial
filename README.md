@@ -14,8 +14,16 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
-    <img alt="VueJs" src="https://img.shields.io/badge/-VueJs-3CAF7C?style=flat-square&logo=vue.js&logoColor=white" />
-    <img alt="NuxtJs" src="https://img.shields.io/badge/-NuxtJs-03D17B?style=flat-square&logo=nuxt.js&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=white" />
+    <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3A3A3A?style=flat-square&logo=cypress&logoColor=white" />
+    <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-DC1B24?style=flat-square&logo=testing-library&logoColor=white" />
+    <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-FCC72B?style=flat-square&logo=vitest&logoColor=white" />
+    <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
+     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   </p>
   </p>
 <h3 align="left">Front-End Development Skills:</h3>
