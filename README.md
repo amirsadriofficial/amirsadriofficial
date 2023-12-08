@@ -29,6 +29,7 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
     <img alt="React Query" src="https://img.shields.io/badge/-React Query-red?style=flat-square&logo=react-query&logoColor=white">
+    <img alt="Jotai" src="https://img.shields.io/badge/-Jotai-black?style=flat-square&logo=jotai&logoColor=white">
   </p>
 </p>
 <h3 align="left">Connect With Me:</h3>
