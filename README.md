@@ -12,13 +12,14 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react-native&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-    <img alt="MUI" src="https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=mui&logoColor=white">
-    <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-red?style=flat-square&logo=ant-design&logoColor=white">
+    <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-blue?style=flat-square&logo=mui&logoColor=white">
+    <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-red?style=flat-square&logo=ant-design&logoColor=white">
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=white" />
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3A3A3A?style=flat-square&logo=cypress&logoColor=white" />
     <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-DC1B24?style=flat-square&logo=testing-library&logoColor=white" />
