@@ -30,7 +30,7 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
     <img alt="React Query" src="https://img.shields.io/badge/-React Query-red?style=flat-square&logo=react-query&logoColor=white">
     <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=pwa&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white">
   </p>
 </p>
 <h3 align="left">Connect With Me:</h3>
