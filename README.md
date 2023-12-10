@@ -34,6 +34,9 @@ As a front-end developer with 3 years of professional experience in this field, 
   <p>
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-8DD6F9?style=flat-square&logo=gulp&logoColor=white" />
+  </p>
+  <p>
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
     <img alt="React Query" src="https://img.shields.io/badge/-React Query-red?style=flat-square&logo=react-query&logoColor=white">
     <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=white">
