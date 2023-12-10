@@ -30,6 +30,8 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-DC1B24?style=flat-square&logo=testing-library&logoColor=white" />
     <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-FCC72B?style=flat-square&logo=vitest&logoColor=white" />
     <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
+  </p>
+  <p>
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
