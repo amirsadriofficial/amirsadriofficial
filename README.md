@@ -15,6 +15,8 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
+  </p>
+  <p>
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
