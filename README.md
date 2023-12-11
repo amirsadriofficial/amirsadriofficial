@@ -36,13 +36,13 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
   </p>
   <p>
+    <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white">
+  </p>
+  <p>
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=white" />
-  </p>
-  <p>
-    <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white">
   </p>
 </p>
 <h3 align="left">Connect With Me:</h3>
