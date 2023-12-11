@@ -11,10 +11,14 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  </p>
+  <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
+    <img alt="React Query" src="https://img.shields.io/badge/-React Query-red?style=flat-square&logo=react-query&logoColor=white">
   </p>
   <p>
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
@@ -37,8 +41,6 @@ As a front-end developer with 3 years of professional experience in this field, 
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=white" />
   </p>
   <p>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
-    <img alt="React Query" src="https://img.shields.io/badge/-React Query-red?style=flat-square&logo=react-query&logoColor=white">
     <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white">
   </p>
