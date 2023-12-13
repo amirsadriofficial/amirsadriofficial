@@ -36,7 +36,7 @@ As a front-end developer with 4 years of professional experience in this field, 
     <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
   </p>
   <p>
-    <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=white">
+    <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=black">
     <img alt="NX" src="https://img.shields.io/badge/-NX-red?style=flat-square&logo=nx&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white">
   </p>
