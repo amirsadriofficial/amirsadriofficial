@@ -42,7 +42,7 @@ As a front-end developer with 4 years of professional experience in this field, 
   </p>
   <p>
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=white" />
   </p>
 </p>
