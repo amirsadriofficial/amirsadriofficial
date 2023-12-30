@@ -25,7 +25,7 @@ As a front-end developer with 4 years of professional experience in this field, 
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=black" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-blue?style=flat-square&logo=mui&logoColor=white">
-    <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-red?style=flat-square&logo=ant-design&logoColor=white">
+    <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-red?style=flat-square&logo=ant-design&logoColor=black">
     <img alt="Styled Component" src="https://img.shields.io/badge/-Styled Component-yellow?style=flat-square&logo=jss&logoColor=black">
   </p>
   <p>
