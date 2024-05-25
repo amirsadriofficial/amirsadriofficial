@@ -1,6 +1,6 @@
 # Hi, I'm Amir Sadri
 
-As a front-end developer with 4 years of professional experience in this field, I'm passionate about creating beautiful and functional user interfaces that help businesses achieve their goals. I specialize in HTML, CSS, Typescript, JavaScript, and frameworks like ReactJS, React Native and NextJS. I'm constantly learning new skills and staying up-to-date with the latest web technologies to provide the best solutions for my clients. Collaborating with cross-functional teams, I deliver high-quality projects that exceed client expectations.
+I am a Front-End Engineer with 4 years of professional experience in the industry. I have had the privilege of working with various companies, both small and large, which has equipped me with valuable and diverse experience. My primary focus is on creating high-quality, user-friendly products with exceptional user experiences. I am deeply committed to continuous learning and improvement, constantly seeking to enhance my skills and stay updated with the latest industry trends. My dedication to my craft and my love for developing intuitive and engaging interfaces drive me to deliver outstanding results in every project I undertake.
 
 
 <hr />
