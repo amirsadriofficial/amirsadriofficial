@@ -1,4 +1,4 @@
-# Hi, I'm Amir Sadri
+# Hi, I'm AmirAbbas Sadri
 
 I am a Front-End Engineer with 5 years of professional experience in the industry. I have had the privilege of working with various companies, both small and large, which has equipped me with valuable and diverse experience. My primary focus is on creating high-quality, user-friendly products with exceptional user experiences. I am deeply committed to continuous learning and improvement, constantly seeking to enhance my skills and stay updated with the latest industry trends. My dedication to my craft and my love for developing intuitive and engaging interfaces drive me to deliver outstanding results in every project I undertake.
 
