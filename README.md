@@ -114,7 +114,10 @@ I am a Front-End Engineer with 5 years of professional experience in the industr
 
 <hr /> 
 
-<p>
+<p style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;">
   <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="415"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="415">
