@@ -45,7 +45,13 @@ I am a Software Engineer with 7 years of professional experience in the industry
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=black" />
   </p>
   <h3>Back-End Skills:</h3>
+  ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
   <h3>Databases:</h3>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
+  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
   <h3>DevOps Skills:</h3>
 </p>
 <h3 align="left">Connect With Me:</h3>
