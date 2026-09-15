@@ -44,6 +44,8 @@ I am a Software Engineer with 7 years of professional experience in the industry
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=black" />
   </p>
+  <h3>Back-End Development Skills:</h3>
+  <h3>DevOps Skills:</h3>
 </p>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
