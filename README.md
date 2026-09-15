@@ -44,6 +44,8 @@ I am a Software Engineer with 7 years of professional experience in the industry
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=black" />
   </p>
+</p>
+  
   <h3>Back-End Skills:</h3>
   ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
@@ -53,7 +55,6 @@ I am a Software Engineer with 7 years of professional experience in the industry
   ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
   <h3>DevOps Skills:</h3>
-</p>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="mailto:amirsadriofficial@gmail.com" target="_blank">
