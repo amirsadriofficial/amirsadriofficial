@@ -19,8 +19,6 @@ I am a Software Engineer with 7 years of professional experience in the industry
   -
   NextJs
   -
-  Gatsby
-  -
   Redux
   -
   React Query
