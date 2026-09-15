@@ -4,7 +4,7 @@ I am a Software Engineer with 7 years of professional experience in the industry
 
 <hr />
 <p align="left">
-  <h3>Front-End Development Skills:</h3>
+  <h3>Front-End Skills:</h3>
   <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
@@ -44,7 +44,8 @@ I am a Software Engineer with 7 years of professional experience in the industry
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
     <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=black" />
   </p>
-  <h3>Back-End Development Skills:</h3>
+  <h3>Back-End Skills:</h3>
+  <h3>Databases:</h3>
   <h3>DevOps Skills:</h3>
 </p>
 <h3 align="left">Connect With Me:</h3>
