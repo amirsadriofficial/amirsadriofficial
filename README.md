@@ -57,6 +57,15 @@ I am a Software Engineer with 7 years of professional experience in the industry
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
+  <a href="mailto:amirsadriofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-2b2b2b?style=flat&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/amirsadriofficial" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMyIgZmlsbD0iIzBBNjZDMiIvPjxnIGZpbGw9IiNmZmYiPjxyZWN0IHg9IjUiIHk9IjkuNSIgd2lkdGg9IjMuMiIgaGVpZ2h0PSI5LjUiLz48Y2lyY2xlIGN4PSI2LjYiIGN5PSI2LjMiIHI9IjEuOSIvPjxwYXRoIGQ9Ik0xMC41IDkuNWgzLjF2MS40Yy41LS45IDEuNi0xLjYgMy4xLTEuNiAyLjkgMCAzLjMgMS45IDMuMyA0LjNWMTloLTMuMnYtNC44YzAtMS4xIDAtMi41LTEuNi0yLjVzLTEuOCAxLjItMS44IDIuNFYxOWgtMy4xeiIvPjwvZz48L3N2Zz4%3D&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/amirabbas_sadri" target="_blank"><img src="https://img.shields.io/badge/X%20%28Twitter%29-2b2b2b?style=flat&logo=x&logoColor=FFFFFF" alt="X (Twitter)" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100058040100594" target="_blank"><img src="https://img.shields.io/badge/Facebook-2b2b2b?style=flat&logo=facebook&logoColor=0866FF" alt="Facebook" /></a>
+  <a href="https://instagram.com/amirsadriofficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-2b2b2b?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://wa.me/message/2AF3SX3XOBZEK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-2b2b2b?style=flat&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
+  <a href="https://t.me/amirsadriofficial" target="_blank"><img src="https://img.shields.io/badge/Telegram-2b2b2b?style=flat&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+</p>
+<p align="left">
   <a href="mailto:amirsadriofficial@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="16" height="16" align="center" /> Gmail</a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/amirsadriofficial" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="16" height="16" align="center" /> LinkedIn</a>
