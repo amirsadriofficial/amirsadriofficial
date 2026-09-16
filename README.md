@@ -51,6 +51,7 @@ I am a Software Engineer with 7 years of professional experience in the industry
 <h3 align="left">DevOps Skills:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2b2b2b?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-2b2b2b?style=flat&logo=nginx&logoColor=009639" alt="Nginx" />
   <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-2b2b2b?style=flat&logo=gitlab&logoColor=FC6D26" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2b2b2b?style=flat&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 </p>
