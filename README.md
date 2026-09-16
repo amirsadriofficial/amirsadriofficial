@@ -52,45 +52,6 @@ I am a Software Engineer with 7 years of professional experience in the industry
   Vite 
   -
   Webpack
-  <!-- <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  </p> -->
-  <!-- <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
-    <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-603092?style=flat-square&logo=gatsby&logoColor=white" />
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-603092?style=flat-square&logo=redux&logoColor=white">
-    <img alt="React Query" src="https://img.shields.io/badge/-React Query-red?style=flat-square&logo=react-query&logoColor=black">
-  </p> -->
-  <!-- <p>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> 
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=black" />
-    <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-    <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-blue?style=flat-square&logo=mui&logoColor=white">
-    <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-red?style=flat-square&logo=ant-design&logoColor=black">
-    <img alt="Styled Component" src="https://img.shields.io/badge/-Styled Component-yellow?style=flat-square&logo=jss&logoColor=black">
-  </p> -->
-  <!-- <p>
-    <img alt="Jest" src="https://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=white" />
-    <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3A3A3A?style=flat-square&logo=cypress&logoColor=white" />
-    <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-DC1B24?style=flat-square&logo=testing-library&logoColor=black" />
-    <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-FCC72B?style=flat-square&logo=vitest&logoColor=black" />
-    <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-F1437E?style=flat-square&logo=storybook&logoColor=white" />
-  </p> -->
-  <!-- <p>
-    <img alt="PWA" src="https://img.shields.io/badge/-PWA-green?style=flat-square&logo=pwa&logoColor=black">
-    <img alt="NX" src="https://img.shields.io/badge/-NX-red?style=flat-square&logo=nx&logoColor=black">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white">
-  </p> -->
-  <!-- <p>
-    <img alt="Vite" src="https://img.shields.io/badge/-Vite-9755EF?style=flat-square&logo=vite&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-    <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-orange?style=flat-square&logo=gulp&logoColor=black" />
-  </p> -->
   <h3>Back-End Skills:</h3>
   Typescript
   - 
