@@ -3,8 +3,6 @@
 I am a Software Engineer with 7 years of professional experience in the industry. I have had the privilege of working with various companies, both small and large, which has equipped me with valuable and diverse experience. My primary focus is on creating high-quality, user-friendly products with exceptional user experiences. I am deeply committed to continuous learning and improvement, constantly seeking to enhance my skills and stay updated with the latest industry trends. My dedication to my craft and my love for developing intuitive and engaging interfaces drive me to deliver outstanding results in every project I undertake.
 
 <hr />
-<hr />
-
 <h3 align="left">Front-End Skills:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-2b2b2b?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
@@ -75,14 +73,6 @@ I am a Software Engineer with 7 years of professional experience in the industry
 </p>
 
 <hr />
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirsadriofficial&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsadriofficial&theme=tokyonight&hide_border=true&layout=compact" width="415">
-</p>
-
-<hr /> 
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=amirsadriofficial&show_icons=true&theme=tokyonight&hide_border=true" width="415">
